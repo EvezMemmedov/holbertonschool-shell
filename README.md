@@ -57,4 +57,8 @@ Changes the owner of the file `hello` to `vincent` only if it is currently owned
 
 ## Project Structure
 
+##Tasks
+
+### 0. hello_world
+This script prints "Hello, World" followed by a new line to the standard output.
 
